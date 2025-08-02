@@ -1,2 +1,1 @@
-# UCAS-COURSE-Combinatorial_Mathematics
-[UCAS COURSE]  Combinatorial mathematics by 孙晓明
+包含组合数学的作业和笔记整理
